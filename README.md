@@ -23,10 +23,13 @@ A pirate-themed password strength analyzer inspired by the world of One Piece, f
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/one-piece-password-king.git
-   cd one-piece-password-king
+   git clone https://github.com/your-username/Password_king.git
+   cd Password_king
    pip install flask
    python app.py
-   Access the app:
+   
+   #Access the app:
+   
    #Open your browser and visit:
+   
    http://localhost:5000
